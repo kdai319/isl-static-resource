@@ -1,0 +1,99 @@
+.webix_inp_label{padding-right:0;padding-left:0;}
+
+.webix_toolbar .webix_el_label{padding-left:0;}
+
+.webix_progress_icon{background-color:#EEE;opacity:0.5}
+
+.webix_view .webix_layout_space{background-color:#FFF;}
+
+.webix_icon_button .webix_icon{color:#1CA1C1}
+
+.webix_tree .webix_tree_item.webix_selected{background-color:#EDEFF5}
+
+.webix_ss_sort_single .webix_ss_sort_num{display:none;}
+
+.webix_radio_option{margin-right:0;}
+
+.webix_el_colorpicker .webix_inp_static{
+	padding:0 5px;
+}
+
+.webix_section > .webix_template{color:#1CA1C1; font-size:14px;}
+
+.webix_el_text input{padding:0 7px 0 7px;}
+
+.webix_badge{ margin-top:1px;}
+
+.webix_arrow_icon{right:0;}
+.logo{padding-left:5px}
+.privacy_policy{
+	cursor: pointer;
+}
+.webix_el_colorpicker .webix_inp_static, .webix_el_datepicker .webix_inp_static, .webix_el_dbldatepicker .webix_inp_static, .webix_el_richselect .webix_inp_static{
+	padding-right:15px;
+	padding-left:7px;
+}
+.webix_dd_drag_column, .webix_ss_header, .webix_ss_header td, .webix_ss_vscroll_header{
+    font-weight: 600;
+	color: #475466;
+}
+.webix_accordionitem .webix_accordionitem_header {
+	line-height: 36px;
+	border-width:1px;
+}
+.webix_el_combo input{padding:0 24px 0 7px;}
+
+.webix_el_box{-moz-box-sizing:border-box;
+	-webkit-box-sizing:border-box;
+	box-sizing:border-box;
+	font-size:9pt;
+	height:100%;
+	overflow:hidden;
+	padding:3px 2px 3px 0;
+	width:100%;
+}
+.webix_custom_checkbox{
+	background-color:transparent;
+	border:0;
+	color:#94A1B3;
+	float:left;
+	font-size:20px;
+	height:100%;
+	margin-top:1px;
+	padding:0;
+	position:relative;
+	margin-left:-2px;
+	margin-right:-2px;
+}
+
+.webix_el_colorpicker .webix_input_icon{
+	border-radius:2px;
+	padding-left:0;
+	right:8px;
+	top:7px;
+	width:18px;
+	margin-right:1px;
+}
+
+.webix_grid_icon_button{
+    position: relative;
+	left:-10px;
+	font-size:20px;
+	vertical-align:middle;
+	display:inline-block;
+	text-align:center;
+}
+.org_main{
+	border-color: #ffcc80 !important;
+}
+.alignLeftHeader{text-align:left !important;}
+
+.filterInput{margin-left:2px;}
+
+.logo{vertical-align:middle;}
+
+.fieldFont{font-size:13px;font-family:Roboto, sans-serif;}
+
+.titleFont{font-size:16px;font-family:Roboto, sans-serif;}
+
+.portlet_drag{cursor:pointer;opacity:.7;position:absolute;right:0;top:0;width:18px;z-index:1;}

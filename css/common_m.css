@@ -1,0 +1,21 @@
+@import url("common_c.css");
+.webix_icon_button .webix_icon {
+	display: inline-block;
+	font-size: 30px;
+	height: 30px;
+	text-align: center;
+	width: 30px;
+}
+.webix_grid_icon_button {
+	width:40px;
+    left: -15px;
+	font-size:30px;
+}
+.webix_message_area {
+	position: fixed;
+	right: 5px;
+	width: 280px;
+	z-index: 1000;
+}
+.fieldFont{font-size:15px;font-family:Roboto, sans-serif;}
+.webix_section > .webix_template{font-size:14px;font-family:Roboto, sans-serif;}
